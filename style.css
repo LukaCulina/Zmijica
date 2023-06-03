@@ -66,10 +66,14 @@
 @media(max-width:1000px) {
     .keyarea{
         visibility: visible;
+        padding-top: 25px;
     }
     #gameBoard{
         width: 90%;
         height: 90%;
         
+    }
+    #scoreText{
+        font-size: 80px;
     }
 }
