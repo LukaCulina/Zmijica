@@ -67,4 +67,9 @@
     .keyarea{
         visibility: visible;
     }
+    #gameBoard{
+        width: 90%;
+        height: 90%;
+        
+    }
 }
